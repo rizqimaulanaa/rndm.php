@@ -1,2 +1,2 @@
-# rndm.php
+# rndm
 random no
